@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29201.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ShootingStars1.0", "ShootingStars\ShootingStars.vcxproj", "{B5FE1694-61B0-4A3F-8122-3CE96F262177}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup3", "Setup3\Setup3.vdproj", "{81D21173-55F0-4550-A94A-77FF50772575}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5FE1694-61B0-4A3F-8122-3CE96F262177}.Debug|x64.ActiveCfg = Debug|x64
+		{B5FE1694-61B0-4A3F-8122-3CE96F262177}.Debug|x64.Build.0 = Debug|x64
+		{B5FE1694-61B0-4A3F-8122-3CE96F262177}.Debug|x86.ActiveCfg = Debug|Win32
+		{B5FE1694-61B0-4A3F-8122-3CE96F262177}.Debug|x86.Build.0 = Debug|Win32
+		{B5FE1694-61B0-4A3F-8122-3CE96F262177}.Release|x64.ActiveCfg = Release|x64
+		{B5FE1694-61B0-4A3F-8122-3CE96F262177}.Release|x64.Build.0 = Release|x64
+		{B5FE1694-61B0-4A3F-8122-3CE96F262177}.Release|x86.ActiveCfg = Release|Win32
+		{B5FE1694-61B0-4A3F-8122-3CE96F262177}.Release|x86.Build.0 = Release|Win32
+		{81D21173-55F0-4550-A94A-77FF50772575}.Debug|x64.ActiveCfg = Debug
+		{81D21173-55F0-4550-A94A-77FF50772575}.Debug|x86.ActiveCfg = Debug
+		{81D21173-55F0-4550-A94A-77FF50772575}.Release|x64.ActiveCfg = Release
+		{81D21173-55F0-4550-A94A-77FF50772575}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {873AE8EB-FCDA-4C16-8071-0FFFF516BA27}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+﻿  CProcessManager.cpp
+F:\WinAPI\ShootingStars\ShootingStars\CProcessManager.cpp(16,28): warning C4244:  '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\WinAPI\ShootingStars\ShootingStars\CProcessManager.cpp(17,31): warning C4244:  '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\WinAPI\ShootingStars\ShootingStars\CProcessManager.cpp(18,29): warning C4244:  '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\WinAPI\ShootingStars\ShootingStars\CProcessManager.cpp(19,34): warning C4244:  '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\WinAPI\ShootingStars\ShootingStars\CProcessManager.cpp(20,34): warning C4244:  '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\WinAPI\ShootingStars\ShootingStars\CProcessManager.cpp(21,52): warning C4244:  '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\WinAPI\ShootingStars\ShootingStars\CProcessManager.cpp(105,28): warning C4244:  '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\WinAPI\ShootingStars\ShootingStars\CProcessManager.cpp(417,34): warning C4244:  '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ShootingStars.vcxproj -> F:\WinAPI\ShootingStars\Debug\ShootingStars.exe

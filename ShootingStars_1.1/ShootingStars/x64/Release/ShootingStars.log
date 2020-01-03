@@ -1,0 +1,68 @@
+﻿  CGameResult.cpp
+  CMainManager.cpp
+F:\WinAPI\ShootingStars_1.1\ShootingStars\CMainManager.cpp(57,28): warning C4244:  '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CPlayManager.cpp
+F:\WinAPI\ShootingStars_1.1\ShootingStars\CMainManager.cpp(130,35): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\WinAPI\ShootingStars_1.1\ShootingStars\CPlayManager.cpp(18,30): warning C4244:  '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\WinAPI\ShootingStars_1.1\ShootingStars\CPlayManager.cpp(301,89): warning C4244:  '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\WinAPI\ShootingStars_1.1\ShootingStars\CPlayManager.cpp(301,58): warning C4244:  '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\WinAPI\ShootingStars_1.1\ShootingStars\CPlayManager.cpp(311,87): warning C4244:  '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\WinAPI\ShootingStars_1.1\ShootingStars\CPlayManager.cpp(311,56): warning C4244:  '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\WinAPI\ShootingStars_1.1\ShootingStars\CPlayManager.cpp(336,28): warning C4244:  '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\WinAPI\ShootingStars_1.1\ShootingStars\CPlayManager.cpp(460,57): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\WinAPI\ShootingStars_1.1\ShootingStars\CPlayManager.cpp(460,41): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\WinAPI\ShootingStars_1.1\ShootingStars\CPlayManager.cpp(463,57): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\WinAPI\ShootingStars_1.1\ShootingStars\CPlayManager.cpp(463,41): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\WinAPI\ShootingStars_1.1\ShootingStars\CPlayManager.cpp(468,71): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\WinAPI\ShootingStars_1.1\ShootingStars\CPlayManager.cpp(468,47): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\WinAPI\ShootingStars_1.1\ShootingStars\CPlayManager.cpp(473,77): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\WinAPI\ShootingStars_1.1\ShootingStars\CPlayManager.cpp(473,51): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\WinAPI\ShootingStars_1.1\ShootingStars\CPlayManager.cpp(480,48): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\WinAPI\ShootingStars_1.1\ShootingStars\CPlayManager.cpp(480,35): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\WinAPI\ShootingStars_1.1\ShootingStars\CPlayManager.cpp(485,70): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\WinAPI\ShootingStars_1.1\ShootingStars\CPlayManager.cpp(485,47): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\WinAPI\ShootingStars_1.1\ShootingStars\CPlayManager.cpp(490,61): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\WinAPI\ShootingStars_1.1\ShootingStars\CPlayManager.cpp(490,43): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\WinAPI\ShootingStars_1.1\ShootingStars\CPlayManager.cpp(504,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+F:\WinAPI\ShootingStars_1.1\ShootingStars\CPlayManager.cpp(517,65): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\WinAPI\ShootingStars_1.1\ShootingStars\CPlayManager.cpp(517,36): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\WinAPI\ShootingStars_1.1\ShootingStars\CPlayManager.cpp(518,58): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\WinAPI\ShootingStars_1.1\ShootingStars\CPlayManager.cpp(518,36): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\WinAPI\ShootingStars_1.1\ShootingStars\CPlayManager.cpp(522,59): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\WinAPI\ShootingStars_1.1\ShootingStars\CPlayManager.cpp(524,81): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\WinAPI\ShootingStars_1.1\ShootingStars\CPlayManager.cpp(524,42): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\WinAPI\ShootingStars_1.1\ShootingStars\CPlayManager.cpp(530,58): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\WinAPI\ShootingStars_1.1\ShootingStars\CPlayManager.cpp(530,36): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\WinAPI\ShootingStars_1.1\ShootingStars\CPlayManager.cpp(534,59): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\WinAPI\ShootingStars_1.1\ShootingStars\CPlayManager.cpp(536,81): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\WinAPI\ShootingStars_1.1\ShootingStars\CPlayManager.cpp(536,42): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CProcessManager.cpp
+  CRankManager.cpp
+F:\WinAPI\ShootingStars_1.1\ShootingStars\CPlayManager.cpp(551,39): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\WinAPI\ShootingStars_1.1\ShootingStars\CRankManager.cpp(19,29): warning C4244:  '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\WinAPI\ShootingStars_1.1\ShootingStars\CRankManager.cpp(90,28): warning C4244:  '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\WinAPI\ShootingStars_1.1\ShootingStars\CRankManager.cpp(120,54): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\WinAPI\ShootingStars_1.1\ShootingStars\CRankManager.cpp(121,62): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\WinAPI\ShootingStars_1.1\ShootingStars\CRankManager.cpp(122,62): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\WinAPI\ShootingStars_1.1\ShootingStars\CRankManager.cpp(126,54): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\WinAPI\ShootingStars_1.1\ShootingStars\CRankManager.cpp(127,62): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\WinAPI\ShootingStars_1.1\ShootingStars\CRankManager.cpp(128,62): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\WinAPI\ShootingStars_1.1\ShootingStars\CRankManager.cpp(132,54): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\WinAPI\ShootingStars_1.1\ShootingStars\CRankManager.cpp(133,62): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\WinAPI\ShootingStars_1.1\ShootingStars\CRankManager.cpp(134,62): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\WinAPI\ShootingStars_1.1\ShootingStars\CRankManager.cpp(138,54): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\WinAPI\ShootingStars_1.1\ShootingStars\CRankManager.cpp(139,54): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\WinAPI\ShootingStars_1.1\ShootingStars\CRankManager.cpp(140,62): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\WinAPI\ShootingStars_1.1\ShootingStars\CRankManager.cpp(141,62): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\WinAPI\ShootingStars_1.1\ShootingStars\CRankManager.cpp(145,54): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\WinAPI\ShootingStars_1.1\ShootingStars\CRankManager.cpp(146,62): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\WinAPI\ShootingStars_1.1\ShootingStars\CRankManager.cpp(147,62): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\WinAPI\ShootingStars_1.1\ShootingStars\CRankManager.cpp(155,69): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\WinAPI\ShootingStars_1.1\ShootingStars\CRankManager.cpp(162,66): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ShootingStars.cpp
+F:\WinAPI\ShootingStars_1.1\ShootingStars\CRankManager.cpp(168,37): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다.
+  Previous IPDB not found, fall back to full compilation.
+  All 872 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  ShootingStars.vcxproj -> F:\WinAPI\ShootingStars_1.1\x64\Release\ShootingStars1.0.exe
